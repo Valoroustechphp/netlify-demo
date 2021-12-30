@@ -1,7 +1,7 @@
 import React from "react"
 // import { Link }  from "react-router-dom"
 import Markdown from "react-markdown"
-import postlist from "../post.json"
+import postlist from "../posts.json"
 
 // import "./components.css"
 
